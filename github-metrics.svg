@@ -429,18 +429,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Vue</span>
-                            <div class="bar" style="width: 63.14083398898505%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">79%</span>
+                            <div class="bar" style="width: 60.2234417875343%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">75%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 14.48937844217152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">18%</span>
+                            <div class="bar" style="width: 16.824774598196786%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">21%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 2.3697875688434302%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
+                            <div class="bar" style="width: 2.9517836142689142%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
                         </div>
                     </div>
                 </section>
@@ -3052,7 +3052,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Feb 2022, 05:14:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 11 Feb 2022, 06:14:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
