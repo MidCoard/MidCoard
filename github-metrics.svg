@@ -434,17 +434,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 66.32301677386808%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 66.30249383614243%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">83%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Vue</span>
-                            <div class="bar" style="width: 13.58012359692269%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 13.600501192352773%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">17%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 0.09685962920923193%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.09700497150478962%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3108,7 +3108,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2022, 12:21:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 13 Mar 2022, 13:20:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
