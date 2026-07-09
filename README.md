@@ -1,9 +1,4 @@
-### Hi there 👋
-
-🔭 I’m currently studying in UESTC.
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-### Hi there 👋
+## Hi there 👋
 
 🔭 I'm MidCoard, currently studying at UESTC.
 
