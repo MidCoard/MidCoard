@@ -3,18 +3,14 @@
 🔭 I’m currently studying in UESTC.
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+### Hi there 👋
 
-<!--
-**MidCoard/MidCoard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm MidCoard, currently studying at UESTC.
 
-Here are some ideas to get you started:
+👯 I’m focused on AI agents, software engineering, and developer tools. I enjoy building systems that connect language models with real workflows, tools, memory, and user-facing products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: focess@focess.top
+
+<p align="center">
+  <img src="/github-metrics.svg" alt="GitHub Metrics" width="560">
+</p>
